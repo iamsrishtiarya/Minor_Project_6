@@ -1,4 +1,4 @@
-# 🧠 Tuberculosis Detection from Chest X-Rays
+# 🧠 Tuberculosis Detection Using Deep Learning
 
 A complete deep learning pipeline to detect **Tuberculosis (TB)**  from chest X-ray images using **transfer learning**, **Grad-CAM explainability**, and an interactive **Streamlit web application**.
 
